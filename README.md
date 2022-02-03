@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 I am a Computer Science undergrad studying in Vellore Institute of Technology, Vellore. 
+![alt text](https://github.com/DDR-1/DDR-1/blob/main/Image.png?raw=true)
 <!--
 **DDR-1/DDR-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
