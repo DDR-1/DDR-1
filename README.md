@@ -1,10 +1,7 @@
 ### Hi there 👋
 
-I am a Computer Science undergrad studying in Vellore Institute of Technology, Vellore. 
+I am a Computer Science undergrad studying in Vellore Institute of Technology, Vellore. <br>I love to code but primarily try to develop projects in domains like Web-development, Software-development, Deep Learning and Machine Learning.<br>I try to be versatile and have a passion for all these topics.<br>You're welcome to explore my github projects.<br>😄
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
